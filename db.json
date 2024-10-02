@@ -1,11 +1,16 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ],
-    "profile": {
-      "name": "typicode"
+  "data": [
+    {
+      "name": "Bianchi AQUILA L DURA ACE DI2 TEAM JUMBO 2021",
+      "price": 684840
+    },
+    {
+      "name": "Trek Verve 2 Disc Lithium Grey HYBD 2022",
+      "price": 89300
+    },
+    {
+      "name": "Trek Marlin 7 Matte Nautical Navy Matte Anth ATB 29 2022",
+      "price": 115000
     }
-  }
+  ]
+}
