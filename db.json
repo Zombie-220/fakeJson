@@ -15,5 +15,11 @@
       "price": 115000,
       "status": "В наличии"
     }
+  ],
+  "profile": [
+    {
+      "user": "test",
+      "password": "testPass123"
+    }
   ]
 }
