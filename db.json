@@ -23,6 +23,6 @@
     }
   ],
   "auth": [
-    "token": "lefmjfkgnsejgngregewlkleavvkmravr"
+    { "token": "lefmjfkgnsejgngregewlkleavvkmravr" }
   ]
 }
