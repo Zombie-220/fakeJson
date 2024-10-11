@@ -27,47 +27,5 @@
   ],
   "auth": [
     { "token": "lefmjfkgnsejgngregewlkleavvkmravr" }
-  ],
-  "products": [
-    {
-      "id": 1,
-      "title": "Яблоко",
-      "banner": "https://sun9-60.userapi.com/impg/t5Hykpz6dOtxj_ZKlTCD2x3F0NZ1sznCTffAEQ/5v5t_XaXcNc.jpg?size=807x538&quality=96&sign=4dfd6b03444a8f946ad9ff9496e31204&c_uniq_tag=lK5y4sQjAvoHvLV9mV4XqsIZsWQva-MINvE0YPikaYE&type=album"
-    },
-    {
-      "id": 2,
-      "title": "Банан",
-      "banner": "https://steamuserimages-a.akamaihd.net/ugc/2477619372090735650/0AA5080F64B785BD2CB2592E22DA5590A81C5E46/"
-    },
-    {
-      "id": 3,
-      "title": "Виноград",
-      "banner": "https://u.9111s.ru/uploads/202201/27/f1f8797d02fd42bfbf0f3a965962aec1.jpg"
-    },
-    {
-      "id": 4,
-      "title": "Груша",
-      "banner": "https://u.9111s.ru/uploads/202201/27/f1f8797d02fd42bfbf0f3a965962aec1.jpg"
-    },
-    {
-      "id": 5,
-      "title": "Слива",
-      "banner": "https://sun9-60.userapi.com/impg/t5Hykpz6dOtxj_ZKlTCD2x3F0NZ1sznCTffAEQ/5v5t_XaXcNc.jpg?size=807x538&quality=96&sign=4dfd6b03444a8f946ad9ff9496e31204&c_uniq_tag=lK5y4sQjAvoHvLV9mV4XqsIZsWQva-MINvE0YPikaYE&type=album"
-    },
-    {
-      "id": 6,
-      "title": "Арбуз",
-      "banner": "https://steamuserimages-a.akamaihd.net/ugc/2477619372090735650/0AA5080F64B785BD2CB2592E22DA5590A81C5E46/"
-    },
-    {
-      "id": 7,
-      "title": "Молоко",
-      "banner": "https://u.9111s.ru/uploads/202201/27/f1f8797d02fd42bfbf0f3a965962aec1.jpg"
-    },
-    {
-      "id": 8,
-      "title": "Сливки",
-      "banner": "https://u.9111s.ru/uploads/202201/27/f1f8797d02fd42bfbf0f3a965962aec1.jpg"
-    }
   ]
 }
