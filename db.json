@@ -3,24 +3,24 @@
     "newBicycles": [
       {
         "id": 0,
-        "imagePath": "/assets/temp/main/newBicycle/Bianchi AQUILA L DURA ACE DI2 TEAM JUMBO 2021.svg",
-        "countryImage": "/assets/temp/country/italia.svg",
+        "imagePath": "../../assets/temp/main/newBicycle/Bianchi AQUILA L DURA ACE DI2 TEAM JUMBO 2021.svg",
+        "countryImage": "../../assets/temp/country/italia.svg",
         "name": "Bianchi AQUILA L DURA ACE DI2 TEAM JUMBO 2021",
         "price": 684840,
         "status": "Распродано"
       },
       {
         "id": 1,
-        "imagePath": "/assets/temp/main/newBicycle/Trek Verve 2 Disc Lithium Grey HYBD 2022.svg",
-        "countryImage": "/assets/temp/country/usa.svg",
+        "imagePath": "../../assets/temp/main/newBicycle/Trek Verve 2 Disc Lithium Grey HYBD 2022.svg",
+        "countryImage": "../../assets/temp/country/usa.svg",
         "name": "Trek Verve 2 Disc Lithium Grey HYBD 2022",
         "price": 89300,
         "status": "Распродано"
       },
       {
         "id": 2,
-        "imagePath": "/assets/temp/main/newBicycle/Trek Marlin 7 Matte Nautical Navy Matte Anth ATB 29 2022.svg",
-        "countryImage": "/assets/temp/country/usa.svg",
+        "imagePath": "../../assets/temp/main/newBicycle/Trek Marlin 7 Matte Nautical Navy Matte Anth ATB 29 2022.svg",
+        "countryImage": "../../assets/temp/country/usa.svg",
         "name": "Trek Marlin 7 Matte Nautical Navy Matte Anth ATB 29 2022",
         "price": 115000,
         "status": "В наличии"
